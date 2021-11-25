@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "131410176852",
+    "firebase_url": "https://ecosistemas-de-apps-2de1b-default-rtdb.firebaseio.com",
+    "project_id": "ecosistemas-de-apps-2de1b",
+    "storage_bucket": "ecosistemas-de-apps-2de1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131410176852:android:4830f0414a10233753b6c1",
+        "android_client_info": {
+          "package_name": "com.example.semana14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131410176852-744v146llllt2qjgj04pd4ititf2k5qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdG5y0eoqQR78nFnSwS61heYtGoZLXcXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131410176852-744v146llllt2qjgj04pd4ititf2k5qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
